@@ -9,6 +9,7 @@ import java.util.Set;
 
 
 public class DetailSite {
+	
 
 	    private Map<String, List<String>> domainLinks;
 	    private Set<String> extDomainLinks;
